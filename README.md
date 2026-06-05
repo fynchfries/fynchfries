@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Theo Ermino</h1>
+<h1 align="center">Hi 👋, I'm Theo</h1>
 <h3 align="center">An aspiring developer focused on AI and Machine Learning.</h3>
 
 <h3 align="left">Connect with me:</h3>

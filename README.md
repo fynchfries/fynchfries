@@ -1,18 +1,18 @@
-## Hi, I'm Theo 👋
+## Hi, I'm Theo
 
-Aspiring developer focused on AI and Machine Learning.
+I am an aspiring developer focused on AI and Machine Learning.
 
 ---
 
 ### Currently Learning
-Python for AI/ML
+I am currently learning Python for AI and ML.
 
 ---
 
 ### Tools
-Python • AI/ML
+I use Python and AI/ML tools.
 
 ---
 
 ### Contact
-Through my GitHub profile
+You can reach me through my GitHub profile.

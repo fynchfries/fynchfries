@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Theo</h1>
+<h1 align="center">Hi, I'm Theo 👋</h1>
 
 <p align="center">
 An aspiring developer focused on AI and Machine Learning.

@@ -4,15 +4,15 @@ Aspiring developer focused on AI and Machine Learning.
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 Python for AI/ML
 
 ---
 
-### 🛠️ Tools
+### Tools
 Python • AI/ML
 
 ---
 
-### 📫 Contact
+### Contact
 Through my GitHub profile

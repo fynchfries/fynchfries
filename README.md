@@ -2,4 +2,4 @@
 
 🎓 Second-Year BS Computer Science Student  
 🤖 Currently Learning Machine Learning & AI  
-🚀 Currently Building a B2C Startup with Potato Devs (developer team)
+🚀 Currently Building a B2C Startup with Potato Devs 🥔

@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Theo 🐈‍⬛</h1>
+<h1 align="center">Hi, I'm Theo 🐈‍⬛</h1>
 
 🎓 Second-Year BS Computer Science Student  
 🤖 Currently Learning Machine Learning & AI  

@@ -10,3 +10,9 @@
 </p>
 
 [![committers.top badge](https://user-badge.committers.top/philippines/fynvhfries.svg)](https://user-badge.committers.top/philippines/fynchfries)
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fynchfries&show_icons=true&theme=radical" height="170" />
+</div>

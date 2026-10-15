@@ -33,3 +33,5 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=fynchfries&show_icons=true&theme=radical" height="170" />
 
 </div> 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

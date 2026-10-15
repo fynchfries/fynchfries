@@ -1,4 +1,4 @@
-Hi, I'm Theo <img src="icons8-cat-32 (1).png" alt="Theo's cat" width="30" />
+<h1 align="center">Hi, I'm Theo <img src="icons8-cat-32 (1).png" alt="Theo's cat" width="30" />
 
 </h1>
 

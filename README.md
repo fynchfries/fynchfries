@@ -8,3 +8,5 @@
   🎓 Second-Year BS Computer Science Student<br>
   🤖 Currently Learning Machine Learning & AI
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/philippines/fynvhfries.svg)](https://user-badge.committers.top/philippines/fynchfries)

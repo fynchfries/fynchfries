@@ -10,11 +10,13 @@
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
 
-<p align="left">
-  <b>🚀 Co-Founder of Potato Devs | Building a B2C TravelTech Startup</b><br>
-  <b>🎓 Second-Year BS Computer Science Student</b><br>
-  <b>🤖 Currently Learning Machine Learning & AI</b>
-</p>
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 15px 0;">
+  <p align="left" style="margin: 0; line-height: 1.8;">
+    <b>🚀 Co-Founder of Potato Devs | Building a B2C TravelTech Startup</b><br>
+    <b>🎓 Second-Year BS Computer Science Student</b><br>
+    <b>🤖 Currently Learning Machine Learning & AI</b>
+  </p>
+</div>
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
 

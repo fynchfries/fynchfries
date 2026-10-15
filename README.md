@@ -1,8 +1,8 @@
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 24px; background-color: #0d1117;">
+<div style="font-family: 'Press Start 2P', monospace, sans-serif; font-size: 14px; line-height: 1.6; border: 1px solid #30363d; border-radius: 8px; padding: 24px; background-color: #0d1117;">
 
   <h1 align="center">Hi, I'm Theo <img src="icons8-cat-32 (1).png" alt="Theo's cat" width="30" /></h1>
 
-  <h3 align="left">
+  <h3 align="left" style="font-size: 13px;">
     🚀 Co-Founder of Potato Devs | Building a B2C TravelTech Startup<br>
     🎓 Second-Year BS Computer Science Student<br>
     🤖 Currently Learning Machine Learning & AI

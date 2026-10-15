@@ -6,7 +6,7 @@
 
 
 
-<p align="left">
+<h2 align="left">
 
   🚀 Co-Founder of Potato Devs | Building a B2C TravelTech Startup<br>
 
@@ -14,7 +14,7 @@
 
   🤖 Currently Learning Machine Learning & AI
 
-</p>
+</h2>
 
 
 

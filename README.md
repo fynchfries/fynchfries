@@ -5,7 +5,6 @@
   🎓 Second-Year BS Computer Science Student<br>
   🤖 Currently Learning Machine Learning & AI
 </h3>
-
 <br>
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
 

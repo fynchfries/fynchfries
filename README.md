@@ -3,12 +3,12 @@
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
 
 <h3 align="left">
-  🚀 Co-Founder of Potato Devs | Building a B2C TravelTech Startup<br>
+  🚀 Co-Founder of Potato Devs | Building a B2C TravelTech Startup
   🎓 Second-Year BS Computer Science Student<br>
   🤖 Currently Learning Machine Learning & AI
 </h3>
 
-<br>
+
 
 [![committers.top badge](https://user-badge.committers.top/philippines/fynchfries.svg)](https://user-badge.committers.top/philippines/fynchfries)
 

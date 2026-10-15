@@ -6,7 +6,6 @@
   🤖 Currently Learning Machine Learning & AI
 </h3>
 <br>
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
 
 [![committers.top badge](https://user-badge.committers.top/philippines/fynchfries.svg)](https://user-badge.committers.top/philippines/fynchfries)
 

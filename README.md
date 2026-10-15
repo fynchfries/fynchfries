@@ -1,6 +1,6 @@
 <div style="border: 1px solid #30363d; border-radius: 8px; padding: 24px; background-color: #0d1117;">
 
-<h2 align="center">Hi, I'm Theo Ermino <img src="mxj_files" alt="Theo's cat" width="30" /></h2>
+<h2 align="center">Hi, I'm Theo Ermino <img src="mxj_files-cat-23415.gif" alt="Theo's cat" width="30" /></h2>
 
 <div align="center">
   <a href="https://user-badge.committers.top/philippines/fynchfries" target="_blank">

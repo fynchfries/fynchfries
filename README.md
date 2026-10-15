@@ -24,7 +24,7 @@
 
 
 
-📊 Github Stats:
+📊 <h3>Github Stats: </h3>
 
 <div align="center">
 

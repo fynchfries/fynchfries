@@ -16,6 +16,8 @@
   <b>🤖 Currently Learning Machine Learning & AI</b>
 </p>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
 
 <p><b>📊 Github Stats:</b></p>

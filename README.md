@@ -43,8 +43,6 @@
 
 <br>
 
-<img src="https://media.tenor.com/A9l6wcduSXsAAAAj/lain-dance.gif" height="200" />
-
     </td>
   </tr>
 </table>

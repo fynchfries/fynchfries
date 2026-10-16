@@ -21,11 +21,7 @@
 
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-<p><b>🚀 Tech Stack:</b></p>
+<p><b>🚀 Tech Stack: </b></p>
 
 | **Category** | **Technologies** |
 | :--- | :--- |
@@ -34,7 +30,6 @@
 | **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
 | **Data Science** | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
 | **Tools / Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
-
   
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />

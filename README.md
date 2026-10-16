@@ -21,7 +21,8 @@
 
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
-## 🚀 Tech Stack
+
+<p><b>🚀 Tech Stack:</b></p>
 
 | **Category** | **Technologies** |
 | :--- | :--- |

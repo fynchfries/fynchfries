@@ -32,12 +32,3 @@
 | **Tools / Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
   
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
-
-<p><b>📊 Github Stats:</b></p>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=fynchfries&show_icons=true&theme=radical" height="170" />
-</div>
-
-</div>

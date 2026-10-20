@@ -8,8 +8,6 @@
   </a>
 </div>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
-
 
 <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
   <p align="left" style="margin: 0; line-height: 1.8;">
@@ -20,5 +18,4 @@
 </div>
 
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #30363d, transparent); margin: 20px 0;" />
 

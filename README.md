@@ -19,14 +19,17 @@
 
 ## 🎓 Certificates
 
-<p align="center">
-  <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc">
-    <img src="./CS50x.png" alt="CS50x Certificate" width="600" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>CS50x: Introduction to Computer Science</strong><br>
-  Harvard University<br>
-  <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc">View Official Certificate →</a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc" target="_blank" rel="noopener noreferrer">
+        <img src="./CS50x.png" width="100" alt="CS50x Certificate"/>
+      </a>
+    </td>
+    <td>
+      <strong>CS50x: Introduction to Computer Science</strong><br>
+      <span style="font-size: 0.9em; color: gray;">Issued by Harvard University</span><br>
+      <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc" target="_blank" rel="noopener noreferrer">View Certificate →</a>
+    </td>
+  </tr>
+</table>

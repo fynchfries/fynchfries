@@ -36,11 +36,11 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark&background=0D1117&border=FFFFFF&ring=FF9F1C&fire=FF4500&currStreakLabel=FFD700&sideLabels=58A6FF&dates=C9D1D9" width="100%" height="200" alt="GitHub Streak Stats" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark&background=0D1117&border=FFFFFF&ring=FF8C00&fire=FF6B00&currStreakLabel=FF8C00&sideLabels=2496FF&dates=C9D1D9" width="100%" height="200" alt="GitHub Streak Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=0d1117&text=ffffff&title_color=A78BFA&icon_color=00D9FF&border_color=FFFFFF&custom_title=Contribution%20Activity" width="100%" height="200" alt="GitHub Contribution Activity" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=0d1117&text=ffffff&title_color=2496FF&icon_color=FF8C00&border_color=FFFFFF&custom_title=Contribution%20Activity" width="100%" height="200" alt="GitHub Contribution Activity" />
     </td>
   </tr>
 </table>

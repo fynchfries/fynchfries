@@ -11,8 +11,8 @@
 
 <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
   <p align="left" style="margin: 0; line-height: 1.8;">
-    <b>🎓 Second-Year BS Computer Science Student</b><br>
-    <b>🤖 Currently Learning Machine Learning & AI</b>
+    <h3>🎓 Second-Year BS Computer Science Student</h3>
+    <h3>🤖 Currently Learning Machine Learning & AI</h3>
   </p>
 </div>
 

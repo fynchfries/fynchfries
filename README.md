@@ -20,14 +20,13 @@
 ## 🎓 Certificates
 
 <p align="center">
-  <a href="YOUR_CS50_CERTIFICATE_URL">
-    <img src="CS50x-Ermino.pdf" alt="CS50 Completed Certificate" />
+  <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc">
+    <img src="./CS50x.png" alt="CS50x Certificate" width="600" />
   </a>
 </p>
 
 <p align="center">
   <strong>CS50x: Introduction to Computer Science</strong><br>
-  Harvard University
+  Harvard University<br>
+  <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc">View Official Certificate →</a>
 </p>
-
-

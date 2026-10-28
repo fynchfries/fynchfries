@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Theo <img src="mxj_files-cat-23415.gif" alt="Theo's cat" width="50" /></h1>
+<h2 align="center">Hi, I'm Theo <img src="mxj_files-cat-23415.gif" alt="Theo's cat" width="50" /></h2>
 
 <div align="left">
   <a href="https://user-badge.committers.top/philippines/fynchfries" target="_blank">

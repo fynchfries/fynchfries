@@ -37,10 +37,10 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark&background=0D1117&border=FFFFFF&ring=FF8C00&fire=F5222D&currStreakLabel=FF8C00&sideLabels=F5222D&dates=FFFFFF" width="100%" height="200" alt="GitHub Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark&background=0D1117&border=FFFFFF&ring=FF9500&fire=FF3030&currStreakLabel=FF9500&sideLabels=FF3030&dates=FFFFFF" width="100%" height="200" alt="GitHub Streak Stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=0d1117&text=ffffff&title_color=F5222D&icon_color=FF8C00&border_color=FFFFFF&custom_title=Contribution%20Activity" width="100%" height="200" alt="GitHub Contribution Activity" />
+      <img src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=0d1117&text=ffffff&title_color=FF3030&icon_color=FF9500&border_color=FFFFFF&custom_title=Contribution%20Activity" width="100%" height="200" alt="GitHub Contribution Activity" />
     </td>
   </tr>
 </table>

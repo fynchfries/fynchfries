@@ -1,5 +1,10 @@
 
-<h2 align="center">Hi, I'm Theo <img src="mxj_files-cat-23415.gif" alt="Theo's cat" width="50" /></h2>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E8DCC8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Theo+%F0%9F%91%8B;Computer+Science+Student;Learning+Machine+Learning+%26+AI" alt="Typing animation" />
+  <img src="mxj_files-cat-23415.gif" alt="Theo's cat" width="50" />
+</h2>
+
 
 <div align="left">
   <a href="https://user-badge.committers.top/philippines/fynchfries" target="_blank">

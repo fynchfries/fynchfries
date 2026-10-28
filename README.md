@@ -23,6 +23,8 @@
 </div>
 
 
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+  
 <h3>🎓 Certificates</h3>
 
 <table>
@@ -39,6 +41,9 @@
   </tr>
 </table>
 
+
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+  
 <h3>📊 GitHub Stats</h3>
 
 <table>

@@ -17,6 +17,13 @@
   </p>
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark" height="170" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fynchfries&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
+</div>
+
 ## 🎓 Certificates
 
 <table>

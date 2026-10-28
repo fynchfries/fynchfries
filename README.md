@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://user-badge.committers.top/philippines/fynchfries" target="_blank">
-    <img src="./committers-badge.svg." alt="Committers Top Philippines Rank" />
+    <img src="./committers-badge.svg" alt="Committers Top Philippines Rank" />
   </a>
 </div>
 

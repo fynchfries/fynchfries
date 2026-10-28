@@ -1,14 +1,15 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<h3 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=800&duration=1500&color=E8DCC8&center=true&vCenter=true&width=650&height=100&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+AI+%26+ML"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=800&duration=1500&color=E8DCC8&center=true&vCenter=true&width=500&height=60&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+AI+%26+ML"
     alt="Pixel typing animation"
-  />
-  <img
+    align="middle"
+  /><img
     src="mxj_files-cat-23415.gif"
     alt="Pixel cat"
     width="50"
+    align="middle"
   />
-</div>
+</h3>
 
 <hr>
 

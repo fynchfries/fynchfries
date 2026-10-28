@@ -36,6 +36,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fynchfries&layout=compact&theme=radical" height="170" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fynchfries&layout=compact&theme=radical" height="170" alt="Most Used Languages" />
   <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark" height="170" alt="GitHub Streak Stats" />
 </div>

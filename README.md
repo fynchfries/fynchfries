@@ -1,8 +1,5 @@
 
-<h1 align="center">
-  Hi, I'm Theo
-  <img src="mxj_files-cat-23415.gif" alt="Theo's cat" width="50" />
-</h1>
+<h1 align="center">Hi, I'm Theo <img src="mxj_files-cat-23415.gif" alt="Theo's cat" width="50" /></h1>
 
 <div align="left">
   <a href="https://user-badge.committers.top/philippines/fynchfries" target="_blank">
@@ -10,30 +7,23 @@
   </a>
 </div>
 
-<!-- Student Information -->
-<table>
-  <tr>
-    <td>
-      <h3>🎓 Second-Year BS Computer Science Student</h3>
-      <h3>🤖 Currently Learning Machine Learning & AI</h3>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <h3>🎓 Second-Year BS Computer Science Student</h3>
+  <h3>🤖 Currently Learning Machine Learning & AI</h3>
+</div>
 
-<!-- Certificates Section -->
 <table>
   <tr>
     <td>
       <h3>🎓 Certificates</h3>
-
       <table>
         <tr>
-          <td align="center" valign="middle">
+          <td>
             <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc" target="_blank" rel="noopener noreferrer">
               <img src="./CS50x.png" width="100" alt="CS50x Certificate" />
             </a>
           </td>
-          <td valign="middle">
+          <td>
             <strong>CS50x: Introduction to Computer Science</strong><br>
             <sub>Issued by Harvard University</sub>
           </td>
@@ -43,26 +33,17 @@
   </tr>
 </table>
 
-<!-- GitHub Stats Section -->
 <table>
   <tr>
     <td>
       <h3>📊 GitHub Stats</h3>
-
       <p align="center">
-        <img
-          src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark&background=0D0D0D&border=E8DCC8&ring=E8DCC8&fire=F5F0E8&currStreakLabel=E8DCC8&sideLabels=B8B8B8&dates=FFFFFF"
-          width="100%"
-          alt="GitHub Streak Stats"
-        />
-      </p>
-
-      <p align="center">
-        <img
-          src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=0d0d0d&text=e8e8e8&title_color=E8DCC8&icon_color=F5F0E8&border_color=E8DCC8&custom_title=Contribution%20Activity"
-          width="100%"
-          alt="GitHub Contribution Activity"
-        />
+        <a href="https://github.com/fynchfries">
+          <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark&background=0D0D0D&border=E8DCC8&ring=E8DCC8&fire=F5F0E8&currStreakLabel=E8DCC8&sideLabels=B8B8B8&dates=FFFFFF" width="350" alt="GitHub Streak Stats" />
+        </a>
+        <a href="https://github.com/fynchfries">
+          <img src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=0d0d0d&text=e8e8e8&title_color=E8DCC8&icon_color=F5F0E8&border_color=E8DCC8&custom_title=Contribution%20Activity" width="350" alt="GitHub Contribution Activity" />
+        </a>
       </p>
     </td>
   </tr>

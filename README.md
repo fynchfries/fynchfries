@@ -7,17 +7,6 @@
   <img src="mxj_files-cat-23415.gif" alt="Pixel cat" width="50" />
 </h3>
 
-<div align="left">
-  <a href="https://user-badge.committers.top/philippines/fynchfries" target="_blank">
-    <img src="./committers-badge.svg" alt="Committers Top Philippines Rank" />
-  </a>
-</div>
-
-<div align="left">
-  <h3>🎓 Second-Year BS Computer Science Student</h3>
-  <h3>🤖 Currently Learning Machine Learning & AI</h3>
-</div>
-
 
 <hr>
 

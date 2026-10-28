@@ -5,8 +5,6 @@
   />
 </div>
 
-<hr>
-
 <h3>🎓 Certificates</h3>
 
 <table>

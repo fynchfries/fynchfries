@@ -35,20 +35,24 @@
 
 
 
+
 <h3>📊 GitHub Stats</h3>
 
-<div align="center">
-  <a href="https://github.com/fynchfries">
-    <img
-      src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark&background=0D0D0D&border=E8DCC8&ring=E8DCC8&fire=F5F0E8&currStreakLabel=E8DCC8&sideLabels=B8B8B8&dates=FFFFFF"
-      width="49%"
-      alt="GitHub Streak Stats"
-    />
-  </a><a href="https://github.com/fynchfries">
-    <img
-      src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=0d0d0d&text=e8e8e8&title_color=E8DCC8&icon_color=F5F0E8&border_color=E8DCC8&custom_title=Contribution%20Activity"
-      width="49%"
-      alt="GitHub Contribution Activity"
-    />
-  </a>
-</div>
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <img
+        src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark&background=0D0D0D&border=E8DCC8&ring=E8DCC8&fire=F5F0E8&currStreakLabel=E8DCC8&sideLabels=B8B8B8&dates=FFFFFF"
+        width="100%"
+        alt="GitHub Streak Stats"
+      />
+    </td>
+    <td width="50%" align="left" valign="top">
+      <img
+        src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=0d0d0d&text=e8e8e8&title_color=E8DCC8&icon_color=F5F0E8&border_color=E8DCC8&custom_title=Contribution%20Activity"
+        width="100%"
+        alt="GitHub Contribution Activity"
+      />
+    </td>
+  </tr>
+</table>

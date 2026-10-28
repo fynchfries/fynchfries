@@ -6,7 +6,7 @@
   /><img
     src="mxj_files-cat-23415.gif"
     alt="Pixel cat"
-    width="75"
+    width="70"
     align="middle"
   />
 </h3>

@@ -17,5 +17,17 @@
   </p>
 </div>
 
+## 🎓 Certificates
+
+<p align="center">
+  <a href="YOUR_CS50_CERTIFICATE_URL">
+    <img src="https://img.shields.io/badge/CS50-Completed-9cf?style=for-the-badge&logo=edx&logoColor=white" alt="CS50 Completed Certificate" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>CS50x: Introduction to Computer Science</strong><br>
+  Harvard University
+</p>
 
 

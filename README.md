@@ -9,12 +9,19 @@
   </a>
 </div>
 
+
 <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-  <p align="left" style="margin: 0; line-height: 1.8;">
-    <h3>🎓 Second-Year BS Computer Science Student</h3>
-    <h3>🤖 Currently Learning Machine Learning & AI</h3>
-  </p>
+
+  <h3 style="margin: 0; line-height: 1.8;">
+    🎓 Second-Year BS Computer Science Student
+  </h3>
+
+  <h3 style="margin: 0; line-height: 1.8;">
+    🤖 Currently Learning Machine Learning & AI
+  </h3>
+
 </div>
+
 
 <h3>🎓 Certificates</h3>
 

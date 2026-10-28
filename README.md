@@ -36,5 +36,5 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com/?user=fynchfries&theme=dark" width="49%" alt="GitHub Streak Stats" />
-  <img src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=151515&color=F1E05A&border=FFFFFF" width="49%" alt="GitHub Contributions This Year" />
+  <img src="https://ghstats.dev/api/card?username=fynchfries&hide=stars,commits,prs,issues,streak,week,trend,avg,active_day,grade,repos,followers&bg=0d1117&text=ffffff&title_color=F1E05A&icon_color=F1E05A&border_color=ffffff&custom_title=Contributions%20This%20Year" width="49%" alt="GitHub Contributions This Year" />
 </div>

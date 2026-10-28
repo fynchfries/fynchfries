@@ -2,9 +2,12 @@
 
 <h1 align="center">Hi, I'm Theo <img src="mxj_files-cat-23415.gif" alt="Theo's cat" width="50" /></h1>
 
-<div align="left">
+ <div align="left">
   <a href="https://user-badge.committers.top/philippines/fynchfries" target="_blank">
-    <img src="https://user-badge.committers.top/philippines/fynchfries.svg" alt="committers.top badge" />
+    <img
+      src="https://user-badge.committers.top/philippines/fynchfries.svg"
+      alt="Committers Top Philippines Rank"
+    />
   </a>
 </div>
 

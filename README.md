@@ -1,12 +1,11 @@
 
 <h3 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=E8DCC8&center=true&vCenter=true&width=650&height=100&lines=HI%2C+I'M+THEO;CS+STUDENT;LEARNING+AI+%26+ML"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=300&duration=500&color=E8DCC8&center=true&vCenter=true&width=650&height=100&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+AI+%26+ML"
     alt="Pixel typing animation"
   />
   <img src="mxj_files-cat-23415.gif" alt="Pixel cat" width="50" />
 </h3>
-
 
 <hr>
 

@@ -12,27 +12,24 @@
   <h3>🤖 Currently Learning Machine Learning & AI</h3>
 </div>
 
+
+<hr>
+
+<h3>🎓 Certificates</h3>
+
 <table>
   <tr>
     <td>
-      <h3>🎓 Certificates</h3>
-      <table>
-        <tr>
-          <td>
-            <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc" target="_blank" rel="noopener noreferrer">
-              <img src="./CS50x.png" width="100" alt="CS50x Certificate" />
-            </a>
-          </td>
-          <td>
-            <strong>CS50x: Introduction to Computer Science</strong><br>
-            <sub>Issued by Harvard University</sub>
-          </td>
-        </tr>
-      </table>
+      <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc" target="_blank" rel="noopener noreferrer">
+        <img src="./CS50x.png" width="100" alt="CS50x Certificate" />
+      </a>
+    </td>
+    <td>
+      <strong>CS50x: Introduction to Computer Science</strong><br>
+      <sub>Issued by Harvard University</sub>
     </td>
   </tr>
 </table>
-
 
 
 

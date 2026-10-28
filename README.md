@@ -1,10 +1,15 @@
-<h3 align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=800&duration=1500&color=E8DCC8&center=true&vCenter=true&width=650&height=100&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+AI+%26+ML"
     alt="Pixel typing animation"
   />
-  <img src="mxj_files-cat-23415.gif" alt="Pixel cat" width="50" />
-</h3>
+  <img
+    src="mxj_files-cat-23415.gif"
+    alt="Pixel cat"
+    width="50"
+  />
+</div>
+
 <hr>
 
 <h3>🎓 Certificates</h3>

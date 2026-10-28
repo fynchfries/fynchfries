@@ -29,7 +29,6 @@
     <td>
       <strong>CS50x: Introduction to Computer Science</strong><br>
       <span style="font-size: 0.9em; color: gray;">Issued by Harvard University</span><br>
-      <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc" target="_blank" rel="noopener noreferrer">View Certificate →</a>
     </td>
   </tr>
 </table>

@@ -1,16 +1,17 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=1500&deleteSpeed=25&color=E8DCC8&center=true&vCenter=true&width=850&height=100&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+SCIENCE%2C+MACHINE+LEARNING+%26+AI"
-    alt="Pixel typing animation"
-    align="middle"
-  />
-  <img
-    src="mxj_files-cat-23415.gif"
-    alt="Pixel cat"
-    width="70"
-    align="middle"
-  />
-</p>
+<h3 align="center">
+  <span style="white-space: nowrap;">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=1500&deleteSpeed=25&color=E8DCC8&center=true&vCenter=true&width=650&height=100&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+SCIENCE%2C+MACHINE+LEARNING+%26+AI"
+      alt="Pixel typing animation"
+      align="middle"
+    /><img
+      src="mxj_files-cat-23415.gif"
+      alt="Pixel cat"
+      width="70"
+      align="middle"
+    />
+  </span>
+</h3>
 
 <hr>
 

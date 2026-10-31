@@ -31,6 +31,10 @@
   </tr>
 </table>
 
+<br clear="left" />
+
+<h3>📊 GitHub Stats</h3>
+
 
 
 <h3>📊 GitHub Stats</h3>

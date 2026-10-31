@@ -17,14 +17,14 @@
 
 <h3>🎓 Certificates</h3>
 
-<table>
+<table align="left" width="400">
   <tr>
-    <td>
+    <td width="110" align="center" valign="middle">
       <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc" target="_blank" rel="noopener noreferrer">
         <img src="./CS50x.png" width="100" alt="CS50x Certificate" />
       </a>
     </td>
-    <td>
+    <td valign="middle">
       <strong>CS50x: Introduction to Computer Science</strong><br>
       <sub>Issued by Harvard University</sub>
     </td>

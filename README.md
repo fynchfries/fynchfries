@@ -18,7 +18,7 @@
   </table>
 </p>
 
-<hr>>
+<hr>
 
 <h3>🎓 Certificates</h3>
 

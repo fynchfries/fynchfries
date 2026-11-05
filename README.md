@@ -1,25 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=3500&deleteSpeed=40&color=E8DCC8&center=true&vCenter=true&width=950&height=70&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI" alt="Theo's typing animation" /><img src="./mxj_files-cat-23415.gif" width="35" alt="Pixel cat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=3500&deleteSpeed=40&color=E8DCC8&center=true&vCenter=true&width=950&height=70&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI" alt="Theo's typing animation" /><img src="./mxj_files-cat-23415.gif" width="35" style="vertical-align: middle;" alt="Pixel cat" />
 </p>
 
 <hr>
-<h3>🎓 Certificates</h3>
-
-<table align="left" width="400">
-  <tr>
-    <td width="110" align="center" valign="middle">
-      <a href="https://cs50.harvard.edu/certificates/62564a48-58e9-43c1-be72-5352be5feedc" target="_blank" rel="noopener noreferrer">
-        <img src="./CS50x.png" width="100" alt="CS50x Certificate" />
-      </a>
-    </td>
-    <td valign="middle">
-      <strong>CS50x: Introduction to Computer Science</strong><br>
-      <sub>Issued by Harvard University</sub>
-    </td>
-  </tr>
-</table>
-
-<br clear="left" />
 
 <h3>📊 GitHub Stats</h3>
 

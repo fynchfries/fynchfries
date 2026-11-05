@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="50" viewBox="0 0 720 50">
+<style>@font-face{font-family:"PS2P";src:url(data:font/woff;base64,d09GRgABAAAAAAWQAAwAAAAACRQAAQABAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAAFZAAAACkAAAAquPq49E9TLzIAAAOwAAAARQAAAGBlfFl6Y21hcAAAA/gAAABcAAAAeAFGAj9nYXNwAAAFXAAAAAgAAAAIAAAAEGdseWYAAAEcAAAB1wAABDK339zHaGVhZAAAA0QAAAA2AAAANgh1R95oaGVhAAADlAAAABoAAAAkBKcD6mhtdHgAAAN8AAAAGAAAAC4FXwLubG9jYQAAAxQAAAAuAAAALgv7CudtYXhwAAAC9AAAAB0AAAAgACsAXm5hbWUAAARUAAAA9AAAAgosyELicG9zdAAABUgAAAATAAAAIP+4ADJ4nG1Ty26jQBDswVmtViGKxhaKVjmsEPIXjFA+KqecOPUH+OTT/uOefOLUCmirujEmD2MYBrqqq6sbqUREd6+7f/IoTyJ9Ln3p26Y0JXdYc9t3fdd0qmlQtfnERbV643U6m6XBVCWtLM8iL4SsPA7P4Otx3xhxaVTDjcXGCVXnE69y03MvB+pZtAB7BAVEdZF8PpECoVcoiDY67gN7PXav0zmNcw0sEIZjE/v0UXO76EX92aLauWYulxp6kdJ0ruVzxpJbnB2udAZ+4R1Ne/+bhvmEaL1Fv/ThMbPBjOpCQ1jcdNZN5A9EkhcxMA6F7Lfa3aPSuL/ko1OohLrDXxqkivwj5NTfIuGvG9t/g6R07IDcdubRHcveYWQ8trldpmKuWehaB1bZIH/Jw9JToDhdua0uKwgJ6Wsa0rDB5JjLwFBtjGQ0C2iLATBdGfgDi9rXuSSa+OtsstucSwewy9DNKR9jKDkoy7LpyE+R49I5NBl9UxYx7T9NgzsU8xD85Kou055n8EkaUSv4vHuhw+3HWxP1tzuflAYPzZjBqrc0IgOeH8Bt3HO27tbcjfyWP9Ih+GpXuZXcFHxH3YEWliMc8Ebt1y8xrHT7fO8O8A9zOBbyH/4LSE0AeJxjYGRgYBBjsGDgYVBhYGcA8RCAkYERAAyrAIoAAAAAAAAAAAAAIwBIAGcAfQCgALcAzADbAPgBFQEyAUwBbwGVAacBvQHMAdgB5QIZAAAAAQAAAAMAALFkdidfDzz1AAMD6AAAAADUJyD2AAAAANR245L81v6KA+gD6AAAAAcAAgAAAAAAAHicY37BUMuACmrRRGrB+BcQMgAAaH0FUXicY2BkYGB+wcAAIv9cA7MZGVABIwBwFQSXAAB4nGNgYX7BOIGBlYGBqYspgoGBwRtCM8YxGDEeAvJBUjDAyIAEnCODXBkOMCgwhDK/APGB5pTB1DC9A4spMDADACaEC6sAAAB4nF2MQQpAUABEH/4BJPZ/xUbuIEnKQsoNHJNwFAuuMX4/K1Mzr2ZqgBCInFOXgadh8YxdY7AUlFTUtPSMzJJbLfnXNnQMTJIu0KNbpw7t2rT6v4S/MtIXLx0XeHicjZBPS0JBFMV/k6/ETR8gWgytDFQ0N4EQ/aGWISmC7kQfWpQv1Ir6BH3GPojrztw3YLV4xPBmzpx7zjv3DlBmRAmXVIAvfTl2HOqW4x322URc4swlESfU3GXEuxy4RcR7VN0nV2Q8886Se2bMWeM5oUlLu6cvJtXZVT1lpeXpSTPWPVd2YzXjQYqJsRe86JyLW5qjKj5jqpRzPoQWUrY5pWFozTE1qd7UQXB57iwrlftV+1TMjbnCv2+V/WQ9HRV2VVwNCTN1+WhsW500bXX0HkNVr4W2/q07eOt/3MVv81s7sKlWmjTM438k/zPtG5QMT8t4nGNgZgCD/1sZjBiwAAAswgHqAAABAAH//wAPeJxjYGRgYOBiUGPQYGBycfMJYeDLSSzJY5BgYAGKM/z/zwAHAG2XBV0AAAA=) format("woff")}
+.t{font-family:"PS2P","Courier New",monospace;font-size:14px;fill:#E8DCC8;stroke:#E8DCC8;stroke-width:.7px;paint-order:stroke}
+.c{fill:#E8DCC8}
+@media (prefers-color-scheme: light){.t{fill:#3b3222;stroke:#3b3222}.c{fill:#3b3222}}
+.k{animation:m 18s infinite}.b{animation:bl 1s steps(1) infinite}
+.a0{animation:w0 18s infinite}
+.a1{animation:w1 18s infinite}
+.a2{animation:w2 18s infinite}
+@keyframes bl{0%{opacity:1}50%{opacity:0}}
+@keyframes w0{0%{width:0;animation-timing-function:steps(15)}13.33%{width:210px}25%{width:210px;animation-timing-function:steps(15)}31.67%,100%{width:0}}
+@keyframes w1{0%,33.33%{width:0;animation-timing-function:steps(27)}46.66%{width:378px}58.33%{width:378px;animation-timing-function:steps(27)}65.0%,100%{width:0}}
+@keyframes w2{0%,66.67%{width:0;animation-timing-function:steps(48)}80.0%{width:672px}91.67%{width:672px;animation-timing-function:steps(48)}98.34%,100%{width:0}}
+@keyframes m{0%{transform:translateX(0);animation-timing-function:steps(15)}13.33%{transform:translateX(210px)}25%{transform:translateX(210px);animation-timing-function:steps(15)}31.67%,33.33%{transform:translateX(0);animation-timing-function:steps(27)}46.66%{transform:translateX(378px)}58.33%{transform:translateX(378px);animation-timing-function:steps(27)}65.0%,66.67%{transform:translateX(0);animation-timing-function:steps(48)}80.0%{transform:translateX(672px)}91.67%{transform:translateX(672px);animation-timing-function:steps(48)}98.34%,100%{transform:translateX(0)}}</style>
+<defs>
+<clipPath id="c0"><rect class="a0" x="8" y="0" width="0" height="50"/></clipPath>
+<clipPath id="c1"><rect class="a1" x="8" y="0" width="0" height="50"/></clipPath>
+<clipPath id="c2"><rect class="a2" x="8" y="0" width="0" height="50"/></clipPath>
+</defs>
+<g clip-path="url(#c0)"><text class="t" x="8" y="32">HI, I'M THEO...</text></g>
+<g clip-path="url(#c1)"><text class="t" x="8" y="32">COMPUTER SCIENCE STUDENT...</text></g>
+<g clip-path="url(#c2)"><text class="t" x="8" y="32">LEARNING DATA ENGINEERING, MACHINE LEARNING &amp; AI</text></g>
+<g class="b"><rect class="c k" x="8" y="17" width="9" height="16"/></g>
+</svg>

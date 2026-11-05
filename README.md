@@ -1,14 +1,21 @@
- <p align="center" style="white-space: nowrap;">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=1500&deleteSpeed=25&color=E8DCC8&center=false&vCenter=true&width=850&height=50&cursor=true&cursorChar=%7C&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI"
-    alt="Pixel typing animation"
-    align="middle"
-  /><img
-    src="./mxj_files-cat-23415.gif"
-    alt="Pixel cat"
-    width="65"
-    align="middle"
-  />
+<p align="center">
+  <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+    <tr>
+      <td style="border: none; padding: 0; vertical-align: middle;">
+        <img
+          src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=1500&deleteSpeed=25&color=E8DCC8&center=false&vCenter=true&width=850&height=50&cursor=true&cursorChar=%7C&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI"
+          alt="Pixel typing animation"
+        />
+      </td>
+      <td style="border: none; padding: 0; vertical-align: middle; padding-left: 10px;">
+        <img
+          src="./mxj_files-cat-23415.gif"
+          alt="Pixel cat"
+          width="45"
+        />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <hr>

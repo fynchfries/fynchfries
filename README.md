@@ -3,6 +3,7 @@
 </p>
 
 <hr>
+
 <h3>🎓 Certificates</h3>
 
 <table align="left" width="400">

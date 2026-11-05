@@ -1,13 +1,11 @@
- <p align="center" style="white-space: nowrap;">
+ <p align="center">
   <img
-    src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22HI%2C+I%27M+THEO%22%2C%22typingSpeed%22%3A0.14%2C%22deleteSpeed%22%3A0.045%7D%2C%7B%22text%22%3A%22COMPUTER+SCIENCE+STUDENT%22%2C%22typingSpeed%22%3A0.12%2C%22deleteSpeed%22%3A0.045%7D%2C%7B%22text%22%3A%22LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AII%22%2C%22typingSpeed%22%3A0.11%2C%22deleteSpeed%22%3A0.035%7D%2C%7B%22text%22%3A%22LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI%22%2C%22typingSpeed%22%3A0.15%2C%22deleteSpeed%22%3A0.04%7D%5D&font=Press+Start+2P&fontSize=14&color=%23E8DCC8&backgroundColor=%2300000000&width=850&height=70&pause=1500&repeat=true&center=true&vCenter=true&border=false&cursorStyle=straight&deletionBehavior=backspace"
-    alt="Retro typing animation"
-    align="middle"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=3500&deleteSpeed=40&color=E8DCC8&center=true&vCenter=true&width=950&height=70&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI"
+    alt="Theo's typing animation"
   /><img
     src="./mxj_files-cat-23415.gif"
-    alt="Pixel cat"
     width="65"
-    align="middle"
+    alt="Pixel cat"
   />
 </p>
 

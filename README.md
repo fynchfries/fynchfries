@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=3000&duration=1500&deleteSpeed=25&color=E8DCC8&center=false&vCenter=true&width=720&height=50&cursor=true&cursorChar=%7C&lines=HI%2C+I'M+THEO...;COMPUTER+SCIENCE+STUDENT...;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI" alt="Pixel typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=3000&duration=1500&deleteSpeed=25&color=E8DCC8&center=false&vCenter=true&width=720&height=50&cursor=1&cursorChar=%7C&lines=HI%2C+I'M+THEO...;COMPUTER+SCIENCE+STUDENT...;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI" alt="Pixel typing animation" />
 </p>
 
 <hr>

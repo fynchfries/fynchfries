@@ -1,18 +1,18 @@
-  <h3 align="center" style="white-space: nowrap;">
-  <span style="display: inline-block; vertical-align: middle;">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=1500&deleteSpeed=25&color=E8DCC8&center=true&vCenter=true&width=950&height=100&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI"
-      alt="Pixel typing animation"
-    />
-  </span><img
+ <div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=1500&deleteSpeed=25&color=E8DCC8&center=true&vCenter=true&width=850&height=60&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI"
+    alt="Pixel typing animation"
+    style="display: inline-block; vertical-align: middle;"
+  /><img
     src="./mxj_files-cat-23415.gif"
     alt="Pixel cat"
     width="70"
-    style="display: inline-block; vertical-align: middle; position: relative; top: -10px;"
+    style="display: inline-block; vertical-align: middle; margin-top: -15px;"
   />
-</h3>
+</div>
 
 <hr>
+
 
 <h3>🎓 Certificates</h3>
 

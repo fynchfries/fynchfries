@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="50" viewBox="0 0 720 50">
+<style>
+.t{font-family:"Press Start 2P","Courier New",Consolas,monospace;font-size:16px;fill:#E8DCC8}
+.c{fill:#E8DCC8}
+@media (prefers-color-scheme: light){.t,.c{fill:#3b3222}}
+.a0{animation:w0 18s infinite}
+.a1{animation:w1 18s infinite}
+.a2{animation:w2 18s infinite}
+.k{animation:m 18s infinite}
+.b{animation:bl 1s steps(1) infinite}
+@keyframes bl{0%{opacity:1}50%{opacity:0}}
+@keyframes w0{0%{width:0;animation-timing-function:steps(15)}13.33%{width:165px}25%{width:165px;animation-timing-function:steps(15)}31.67%,100%{width:0}}
+@keyframes w1{0%,33.33%{width:0;animation-timing-function:steps(27)}46.67%{width:297px}58.33%{width:297px;animation-timing-function:steps(27)}65%,100%{width:0}}
+@keyframes w2{0%,66.67%{width:0;animation-timing-function:steps(48)}80%{width:528px}91.67%{width:528px;animation-timing-function:steps(48)}98.33%,100%{width:0}}
+@keyframes m{
+0%{transform:translateX(0);animation-timing-function:steps(15)}
+13.33%{transform:translateX(165px)}
+25%{transform:translateX(165px);animation-timing-function:steps(15)}
+31.67%,33.33%{transform:translateX(0);animation-timing-function:steps(27)}
+46.67%{transform:translateX(297px)}
+58.33%{transform:translateX(297px);animation-timing-function:steps(27)}
+65%,66.67%{transform:translateX(0);animation-timing-function:steps(48)}
+80%{transform:translateX(528px)}
+91.67%{transform:translateX(528px);animation-timing-function:steps(48)}
+98.33%,100%{transform:translateX(0)}
+}
+</style>
+<defs>
+<clipPath id="c0"><rect class="a0" x="10" y="0" width="0" height="50"/></clipPath>
+<clipPath id="c1"><rect class="a1" x="10" y="0" width="0" height="50"/></clipPath>
+<clipPath id="c2"><rect class="a2" x="10" y="0" width="0" height="50"/></clipPath>
+</defs>
+<g clip-path="url(#c0)"><text class="t" x="10" y="32" textLength="165" lengthAdjust="spacing">HI, I'M THEO...</text></g>
+<g clip-path="url(#c1)"><text class="t" x="10" y="32" textLength="297" lengthAdjust="spacing">COMPUTER SCIENCE STUDENT...</text></g>
+<g clip-path="url(#c2)"><text class="t" x="10" y="32" textLength="528" lengthAdjust="spacing">LEARNING DATA ENGINEERING, MACHINE LEARNING &amp; AI</text></g>
+<g class="b"><rect class="c k" x="10" y="15" width="8" height="20"/></g>
+</svg>

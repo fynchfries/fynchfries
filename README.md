@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fynchfries/fynchfries/refs/heads/main/assets/typing.svg" alt="Typing animation" />
+  <img src="https://raw.githubusercontent.com/fynchfries/fynchfries/refs/heads/main/assets/Typing.svg" alt="Typing animation" />
 </p>
 
 <hr>

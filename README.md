@@ -1,22 +1,15 @@
- <div align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="middle">
-        <img
-          src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=1500&deleteSpeed=25&color=E8DCC8&center=true&vCenter=true&width=950&height=100&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI"
-          alt="Pixel typing animation"
-        />
-      </td>
-      <td valign="middle">
-        <img
-          src="./mxj_files-cat-23415.gif"
-          width="70"
-          alt="Pixel cat"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
+ <h3 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&duration=1500&deleteSpeed=25&color=E8DCC8&center=true&vCenter=true&width=850&height=60&lines=HI%2C+I'M+THEO;COMPUTER+SCIENCE+STUDENT;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI"
+    alt="Pixel typing animation"
+    style="vertical-align: middle;"
+  /><img
+    src="./mxj_files-cat-23415.gif"
+    alt="Pixel cat"
+    width="70"
+    style="vertical-align: middle; margin-left: 5px;"
+  />
+</h3>
 
 <hr>
 

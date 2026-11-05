@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/typing.svg" alt="Typing animation" />
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/typing.svg" alt="Typing animation" />
 </p>
 
 <hr>

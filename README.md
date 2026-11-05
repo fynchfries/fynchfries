@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=E8DCC8&text=HI,%20I'M%20THEO...&fontSize=16&animation=typing&height=60" alt="Typing animation with cursor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=3000&duration=1500&deleteSpeed=25&color=E8DCC8&center=false&vCenter=true&width=720&height=50&lines=HI%2C+I'M+THEO...;COMPUTER+SCIENCE+STUDENT...;LEARNING+DATA+ENGINEERING%2C+MACHINE+LEARNING+%26+AI" alt="Pixel typing animation" />
 </p>
+
+<hr>
 <h3>🎓 Certificates</h3>
 
 <table align="left" width="400">
